@@ -1,4 +1,4 @@
-name: Run Python Program
+name: python send_email.py
 
 on:
   workflow_dispatch:
